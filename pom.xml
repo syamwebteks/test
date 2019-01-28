@@ -11,7 +11,8 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <packaging>jar</packaging>  
   
   <name>Maven Quick Start Archetype</name>  
-  <url>http://maven.apache.org</url>  
+  <url>http://maven.apache.org</url>
+  <description>This is test</description>
   
   <dependencies>  
     <dependency>  
